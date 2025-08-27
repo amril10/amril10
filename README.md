@@ -19,6 +19,7 @@ My Full-Stack Developer Project Portfolio. This repository serves as a gallery f
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amril10/amril10/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amril10/amril10/output/pacman-contribution-graph.svg">
 </picture>
+
 <!--
 **amril10/amril10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
