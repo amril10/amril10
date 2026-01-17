@@ -8,17 +8,11 @@ My Full-Stack Developer Project Portfolio. This repository serves as a gallery f
 ⚡ Fun fact: Very fun to learn program😁
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,javascript,tailwind,go,nodejs,react,next,express,mysql,postgresql,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,javascript,tailwind,go,php,laravel,mysql,postgresql&theme=dark)](https://skillicons.dev)
 
 
 ### Connect with me
 ![https://instagram.com/amrildoumar](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/amril-do-umar-3792b6215](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amril10/amril10/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amril10/amril10/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amril10/amril10/output/pacman-contribution-graph.svg">
-</picture>
 
 <!--
 **amril10/amril10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
